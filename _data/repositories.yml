@@ -2,10 +2,6 @@ github_users:
   - singh-sidharth
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - singh-sidharth/dcgan
+  - singh-sidharth/gan
+  - singh-sidharth/Image-Segmentation
