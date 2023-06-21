@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html'>Innovation Award</a>. sidharth-singh@outlook.com
+subtitle: A detail oriented problem solver with a passion for technology.
 
 profile:
   align: right
@@ -11,15 +11,16 @@ profile:
   address: >
     <p>8725 Crescent Court</p>
     <p>University Crescent</p>
-    <p>Burnaby, BC V5A0G2</p>
+    <p>Burnaby, BC V5A 0G2</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at Simon Fraser University and I have about 1.5 years of full-stack Software Developer experience. Curently, I am specializing in Computer Vision using Deep Neural Networks.
+I am a graduate student at Simon Fraser University and I have about 1.5 years of full-stack Software Developer experience. I can build a website or micro-service application for you.
+With my new Masters' program, I am also a beginner in Deep Learning. This allows me to create applications that utilize Computer Vision (Object Detection, Image Segmentation) to satisfy a business need.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
