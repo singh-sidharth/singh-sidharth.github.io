@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a graduate student at Simon Fraser University and I have about 1.5 years of full-stack Software Developer experience. I can build a website or micro-service application for you.
-With my new Masters' program, I am also a beginner in Deep Learning. This allows me to create applications that utilize Computer Vision (Object Detection, Image Segmentation) to satisfy a business need.
+<br/>
+I am enrolled in a Master's program. It provided me the knowledge to create applications utilizing Computer Vision (Object Detection, Image Segmentation) to satisfy given business needs.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
