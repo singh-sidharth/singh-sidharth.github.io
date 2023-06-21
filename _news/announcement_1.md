@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our team won Innovation Award for MPCS Program. <a href='https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html'>Details...</a>
